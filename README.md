@@ -7,8 +7,10 @@
     <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/SASS-CD6799?logo=sass&logoColor=FFFFFF&style=for-the-badge" />
 </div>
-<div align="center" mt="5"><a href="https://zeroryper.github.io/Ableton_Bocchi/">&#128073;You can see it here&#128072;</a>
+<br>
+<div align="center"><a href="https://zeroryper.github.io/Ableton_Bocchi/">&#128073;You can see it here&#128072;</a>
 </div>
+<br>
 <hr>
 <div align="start">
 <p>Ableton Bocchi Version</p>

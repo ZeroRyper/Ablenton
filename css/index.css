@@ -39,12 +39,12 @@ header {
 
 .titulo__ableton {
   position: relative;
-  bottom: 30rem;
+  bottom: 50rem;
   left: 0%;
-  font-size: 5rem;
+  font-size: 10rem;
   font-weight: 600;
   text-align: center;
-  color: #ff00ee;
+  color: #006eff;
   margin: 0 1rem;
 }
 
@@ -258,8 +258,8 @@ main {
   margin-left: 50%;
 }
 .article__music .container__music .container__img {
-  width: 50%;
-  padding: 30% 10%;
+  width: 60%;
+  padding: 25% 10%;
 }
 .article__music .descripcion__container {
   display: flex;
@@ -331,12 +331,12 @@ main {
   width: 50%;
 }
 .article__employees .container__employees .img__small {
-  width: 40%;
+  width: 50%;
   position: relative;
   right: 10%;
 }
 .article__employees .container__employees .img__big {
-  width: 60%;
+  width: 65%;
   position: relative;
   left: 33%;
 }
@@ -346,7 +346,7 @@ main {
   margin: 5rem 6rem;
 }
 .article__jobs .img__jobs {
-  width: 100%;
+  width: 50%;
 }
 .article__jobs .container__jobs {
   display: flex;
@@ -522,6 +522,9 @@ footer .footer__end .madein .p__madein {
   .article__jobs {
     display: flex;
     flex-direction: column;
+  }
+  .article__jobs .img__jobs {
+    width: 100%;
   }
   footer .grid {
     display: grid;

@@ -22,7 +22,7 @@
 <br>
 <hr>
 <p>Responsive Page</p>
-<img src="./assets/Screenshot_Resposive.png">
+<img src="./assets/Screenshot_Responsive.png">
 <br>
 <hr>
 <p>MiniMegaMenu</p>
